@@ -1,0 +1,15 @@
+.main{
+    width: 330px;
+    height: 100vh;
+    position: relative;
+}
+.inf{
+    width: 104%;
+    height: 100%;
+    right: -4%;
+    background-color:#fff;
+    position: absolute;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    z-index: 2;
+}

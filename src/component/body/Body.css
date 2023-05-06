@@ -1,0 +1,9 @@
+.body{
+    width: 80%;
+    height: 100vh;
+    box-shadow: rgba(1, 21, 58, 0.16) 0px 0px 4px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    z-index: 3;
+    background-color: #fff;
+}
